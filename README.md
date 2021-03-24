@@ -18,7 +18,8 @@ Update this README to include your team name and team members. Don't forget to r
 
 
 ### Give an example of a sequence in this program.
-- line 8, printing the board
+- line 8 - 19
+printing the board
 
 ### Give an example of a condition in this program.
 - line 30, if statement

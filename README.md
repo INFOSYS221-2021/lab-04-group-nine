@@ -39,7 +39,7 @@ checks if a symbol is 3 in a row on the board,
 returns true or false.
 
 ### If the code on line 165 is changed from break to gameIsPlaying = False, will this change the behaviour of the program?
-it will be infinite loop
+No
 
 ### What does while True: do in this program?
 loops forever until it says break.

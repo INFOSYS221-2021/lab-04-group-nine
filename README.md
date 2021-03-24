@@ -42,10 +42,10 @@ returns true or false.
 it will be infinite loop
 
 ### What does while True: do in this program?
-loops forever
+loops forever until it says break.
 
 
-Patrik Bolander
-Harsh Thakur
-Mahir Chand
-Ethan Goh
+Patrik Bolander<br>
+Harsh Thakur<br>
+Mahir Chand<br>
+Ethan Goh<br>
